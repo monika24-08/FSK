@@ -90,4 +90,6 @@ plt.show()
 
 # Results
 The modulation and demodulation of fsk is verified.
-# Hardware experiment output waveform.
+# Hardware experiment output waveform:
+![WhatsApp Image 2025-04-28 at 20 44 59_e2a8083c](https://github.com/user-attachments/assets/7b72848f-9304-4952-a888-6bda1e671c36)
+
